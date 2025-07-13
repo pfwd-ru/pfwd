@@ -4,4 +4,7 @@
 - Доступна сборка под arm
 - HTTPS недоступен
 
-Запуск: `pfwd --to=google.com`
+Для запуск:
+- Скачать [pfwd](./pfwd)
+- Выполнить `chmod +x pfwd`
+- Выполнить `pfwd --to=google.com`
