@@ -7,7 +7,7 @@
 - Проверка IP адресов (`--allowed-ips`)
 
 Для запуска:
-- Скачать [pfwd](./pfwd) - сборка под arm
+- Скачать [pfwd](https://github.com/pfwd-ru/pfwd/releases)
 - Выполнить `chmod +x pfwd`
 - Выполнить `pfwd --to=google.com`
 
