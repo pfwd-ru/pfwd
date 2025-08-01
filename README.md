@@ -5,6 +5,7 @@
 - Ограничение скорости (`--rate-limit=100`)
 - [CORS](#cors)
 - Проверка IP адресов (`--allowed-ips`)
+- Установка вебхука для Телеграм бота (`--tg`)
 
 Для запуска:
 - Скачать [pfwd](https://github.com/pfwd-ru/pfwd/releases)
